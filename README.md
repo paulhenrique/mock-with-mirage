@@ -1,11 +1,22 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Arquitetura frontend orientada a dados
+Uma apresentação de como utilizar o Mirage JS como uma alternativa interessante para mock no cotidiano dev. Isso pensando em uma forma de arquitetura orientada a dados para isolar esse tipo de chamada.
 
-To start the slide show:
+## Author
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+👤 **Paulo Henrique Vieira Candido,César Augusto, Ramon Vicente e Victor Hugo Rodrigues**
 
-Edit the [slides.md](./slides.md) to see the changes.
+* Github: [@paulhenrique](https://github.com/paulhenrique)
+* LinkedIn: [@paulhenriquev](https://linkedin.com/in/paulhenriquev)
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+![Gif](https://media1.giphy.com/media/CkG9LPucKWvOCIFZFP/giphy.gif)
+
+<!-- ### 🏠 [Homepage](https://rfendinterview.netlify.app/)
+
+### ✨ [Demo](https://rfendinterview.netlify.app/) -->
+
+*Feito com o sli.dev*
