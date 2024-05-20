@@ -258,7 +258,7 @@ export const ENDPOINTS = {
 
 const UserService = {
   findAll: (): User[] => {
-    return ApiServices.get(ENDPOINTS.USER);
+    return ApiServices.find(ENDPOINTS.USER);
   },
 }
 ```
@@ -272,7 +272,7 @@ depois
 O nascimento do API Services
 
 ```ts {|2-5}
-const apiServices = {
+const ApiServices = {
   find: async (endpoint: string) => {
     const response = await fetch(endpoint);
     const data = await response.json();
