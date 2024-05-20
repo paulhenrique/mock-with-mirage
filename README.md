@@ -3,7 +3,7 @@ Uma apresentação de como utilizar o Mirage JS como uma alternativa interessant
 
 ## Author
 
-👤 **Paulo Henrique Vieira Candido,César Augusto, Ramon Vicente e Victor Hugo Rodrigues**
+👤 **Paulo Henrique Vieira Candido**
 
 * Github: [@paulhenrique](https://github.com/paulhenrique)
 * LinkedIn: [@paulhenriquev](https://linkedin.com/in/paulhenriquev)
